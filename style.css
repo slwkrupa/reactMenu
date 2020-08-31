@@ -1,0 +1,13 @@
+html{
+    font-size: 25px;
+}
+li{
+    line-height: 160%;
+    cursor: pointer;
+}
+li:nth-child(even){
+    background-color: #eee;
+}
+li:nth-child(odd){
+    background-color: #ccc;
+}
